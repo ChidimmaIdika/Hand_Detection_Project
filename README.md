@@ -9,7 +9,7 @@
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Sample Output](#sample-output)
-- [Contributing](#contributing)
+- [Contributions](#contributions)
 - [License](#license)
 
 ## Overview
@@ -31,7 +31,7 @@ Here's an example of the project's output:
 
 
 
-## Contributing
+## Contributions
 If you're interested in contributing to this project or have suggestions for improvements, please feel free to open issues or pull requests. Your contributions are welcome!
 
 ## License
