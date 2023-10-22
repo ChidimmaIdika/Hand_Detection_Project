@@ -28,8 +28,10 @@ Feel free to modify and integrate this hand detection functionality into your ow
 
 ## Sample Output
 Here's an example of the project's output:
-
-
+![hd1](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/adf0fcee-dc68-4d8a-9c77-b09b9856d187)
+![hd](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/eda6eca5-a697-4e82-9b94-793a93938d3e)
+![hd2](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/db34a4ef-68ce-4265-8317-f83fdcc18caa)
+![hd3](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/3051e462-f206-4b6a-a940-d28a2513f9da)
 
 ## Contributions
 If you're interested in contributing to this project or have suggestions for improvements, please feel free to open issues or pull requests. Your contributions are welcome!
