@@ -27,7 +27,7 @@ To run this project, make sure you have Python installed along with the required
 Feel free to modify and integrate this hand detection functionality into your own applications or projects.
 
 ## Sample Output
-Here's an example of the project's output:   
+Here are examples of the project's output:   
 
 ![hd1](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/fdddd8c2-1e11-45b4-97fc-357f93e4f571)
 ![hd](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/ddf5941b-2e73-42b9-b2bc-3120095662b2)
