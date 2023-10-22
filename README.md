@@ -27,11 +27,14 @@ To run this project, make sure you have Python installed along with the required
 Feel free to modify and integrate this hand detection functionality into your own applications or projects.
 
 ## Sample Output
-Here's an example of the project's output:
-![hd1](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/adf0fcee-dc68-4d8a-9c77-b09b9856d187)
-![hd](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/eda6eca5-a697-4e82-9b94-793a93938d3e)
-![hd2](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/db34a4ef-68ce-4265-8317-f83fdcc18caa)
-![hd3](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/3051e462-f206-4b6a-a940-d28a2513f9da)
+Here's an example of the project's output:   
+
+![hd1](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/fdddd8c2-1e11-45b4-97fc-357f93e4f571)
+![hd](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/ddf5941b-2e73-42b9-b2bc-3120095662b2)
+![hd2](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/f951a47c-8809-4be9-aa5a-c1ce22e55a78)
+![hd3](https://github.com/ChidimmaIdika/Hand_Detection_Project/assets/137975543/3bad409f-2989-43e3-8030-ed736d67a39c)   
+
+
 
 ## Contributions
 If you're interested in contributing to this project or have suggestions for improvements, please feel free to open issues or pull requests. Your contributions are welcome!
