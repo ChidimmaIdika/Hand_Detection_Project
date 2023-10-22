@@ -37,7 +37,8 @@ Here's an example of the project's output:
 
 
 ## Contributions
-If you're interested in contributing to this project or have suggestions for improvements, please feel free to open issues or pull requests. Your contributions are welcome!
+If you're interested in contributing to this project or have suggestions for improvements, please feel free to open issues or pull requests.    
+Your contributions are welcome!
 
 ## License
 This project is open-source and available under the MIT License. You can find more details about the MIT License [here](https://opensource.org/license/mit/).
